@@ -1,0 +1,12 @@
+ENSF Airline Ticket:
+
+Passenger first name:    Maria
+Passenger last name:     Lua
+Passenger date of birth: 19950505
+
+Flight number:           725
+Flight origin:           Miami
+Flight destination:      Tokyo
+Flight date (YYYYMMDD):  20170707
+Flight time (HH:MM):     08:00
+Flight duration:         3 hours

@@ -1,0 +1,12 @@
+ENSF Airline Ticket:
+
+Passenger first name:    Maria
+Passenger last name:     Li
+Passenger date of birth: 19950505
+
+Flight number:           722
+Flight origin:           Tokyo
+Flight destination:      Seattle
+Flight date (YYYYMMDD):  20170506
+Flight time (HH:MM):     09:00
+Flight duration:         10 hours

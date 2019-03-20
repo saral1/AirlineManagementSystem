@@ -1,0 +1,5 @@
+Source;Destination;Date;Time;Duration;TotalSeats;OpenSeats;Price;
+
+Seattle;Tokyo;20170506;06:00;11.5;500;500;1100;
+Washington;Orlando;20170507;08:00;2.5;300;300;150;
+Honolulu;Los Angeles;20170510;09:00;2.0;280;280;300;

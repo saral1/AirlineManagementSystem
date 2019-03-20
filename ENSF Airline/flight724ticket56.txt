@@ -1,0 +1,12 @@
+ENSF Airline Ticket:
+
+Passenger first name:    Maria
+Passenger last name:     Lau
+Passenger date of birth: 19950505
+
+Flight number:           724
+Flight origin:           Seattle
+Flight destination:      Miami
+Flight date (YYYYMMDD):  20170808
+Flight time (HH:MM):     08:00
+Flight duration:         2 hours
